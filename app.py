@@ -52,3 +52,5 @@ for row in src_ws:
 	i+=1
 	if(i==70):
 		break
+	else:
+		continue
